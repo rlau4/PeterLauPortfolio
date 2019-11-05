@@ -31,13 +31,13 @@ main {
 .block-header {
   /* Typography */
   color: rgb(49, 65, 158);
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
 }
 
 /* NAV START */
 #logo {
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
   /* Typography */
   font-size: 24px;
